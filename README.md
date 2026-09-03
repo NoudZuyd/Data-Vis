@@ -4,7 +4,7 @@
 
 Welkom bij mijn repository! Hieronder vind je wat info over mij.
 
-![Foto van mezelf](foto noud.jpeg)
+![Foto van mezelf](foto-noud.jpeg)
 
 ## Over mij
 
