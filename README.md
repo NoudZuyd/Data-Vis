@@ -12,5 +12,5 @@ Welkom bij mijn repository! Hieronder vind je een foto van mij en een link naar 
 ## Link naar Zuyd
 Website van [Zuyd Hogeschool](https://www.zuyd.nl/).
 
-# Maak een connectie via [LinkedIn](https://www.linkedin.com/in/noud-rooijakkers-682a8b28b/).
+## Maak een connectie via [LinkedIn](https://www.linkedin.com/in/noud-rooijakkers-682a8b28b/).
 
