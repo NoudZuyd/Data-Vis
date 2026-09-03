@@ -2,7 +2,7 @@
 
 # Mijn GitHub Profiel
 
-Welkom bij mijn repository! Hieronder vind je wat info over mij.
+Welkom bij mijn repository! Hieronder vind je een foto en een link naar de website van Zuyd..
 
 ![Foto van mezelf](foto-noud.jpeg)
 
